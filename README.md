@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, anon visitor! 👋
 
-<!--
-**srebrovn/srebrovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a happy? developer and student learning .NET, Angular, and SQL. Currently, doing my studies at the University of Ljubljana, Faculty of Computer and Information Science.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks**: 
+  - .NET
+  - Angular
+  - SQL
+  - Problem Solving I suppose
+  
+- **Tools & Platforms**:
+  - JetBrains <3
+  - Git & GitHub
+  - Azure DevOps
+
+## 🎓 Current Education
+
+- **University**: University of Ljubljana
+- **Faculty**: Faculty of Computer and Information Science
+
+## 🌱 What I'm Learning
+
+I try to expand my skills in software development, and doing student chores all in one.
+
+## 📫 How to Reach Me
+
+Feel free to contact me:
+
+- [LinkedIn](https://www.linkedin.com/in/nikolasrebrov/)
+- 
+And yes also I'm open to collaboration and always eager to learn new things.
