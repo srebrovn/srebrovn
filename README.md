@@ -28,5 +28,5 @@ I try to expand my skills in software development, and do student chores all at 
 Feel free to contact me:
 
 - [LinkedIn](https://www.linkedin.com/in/nikolasrebrov/)
-- 
-And yes also I'm open to collaboration and always eager to learn new things.
+  
+And yes, I'm open also to collaboration and always eager to learn new things.
