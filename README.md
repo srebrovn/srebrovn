@@ -1,6 +1,6 @@
 # Hi there, anon visitor! 👋
 
-Welcome to my GitHub profile! I'm a happy? developer and student learning .NET, Angular, and SQL. Currently, doing my studies at the University of Ljubljana, Faculty of Computer and Information Science.
+Welcome to my GitHub profile! I'm a happy? developer and student learning .NET, Angular, and SQL, and currently, doing my studies at the University of Ljubljana, Faculty of Computer and Information Science.
 
 ## 🛠️ Technologies & Tools
 
@@ -8,10 +8,9 @@ Welcome to my GitHub profile! I'm a happy? developer and student learning .NET, 
   - .NET
   - Angular
   - SQL
-  - Problem Solving I suppose
-  
+      
 - **Tools & Platforms**:
-  - JetBrains <3
+  - JetBrains
   - Git & GitHub
   - Azure DevOps
 
@@ -22,7 +21,7 @@ Welcome to my GitHub profile! I'm a happy? developer and student learning .NET, 
 
 ## 🌱 What I'm Learning
 
-I try to expand my skills in software development, and doing student chores all in one.
+I try to expand my skills in software development, and do student chores all at once.
 
 ## 📫 How to Reach Me
 
